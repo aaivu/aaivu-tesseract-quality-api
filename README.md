@@ -47,4 +47,14 @@ This API is used to check quality of the image which is send as an input for tes
 
 
 
+### License
+
+Apache License 2.0
+
+### Code of Conduct
+
+Please read our [code of conduct document here](https://github.com/aaivu/aaivu-introduction/blob/master/docs/code_of_conduct.md).
+
+[project]: https://img.shields.io/badge/-Project-blue
+[research]: https://img.shields.io/badge/-Research-yellowgreen
 
