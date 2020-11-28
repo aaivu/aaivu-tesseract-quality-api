@@ -1,29 +1,3 @@
-# Project Title / Research Title
-
-![project] ![research]
-
-
-
-- <b>Project Lead(s) / Mentor(s)</b>
-    1. Name (talk forum profile link)
-    2. Name (talk forum profile link)
-- <b>Contributor(s)</b>
-    1. Name (talk forum profile link)
-    2. Name (talk forum profile link)
-
-<b>Usefull Links </b>
-
-- GitHub : <project_url>
-- Talk Forum : <talk_forum_link>
-
----
-
-## Summary
-
-two - three paragraphs about your project.
-
-## Description
-
 # Quality Checker API
 This API is used to check quality of the image.This API will filter out the images which are not matched with following conditions
 
@@ -57,22 +31,3 @@ This API is used to check quality of the image.This API will filter out the imag
 
 
 
-
-
-## More references
-
-1. Reference
-2. Link
-
----
-
-### License
-
-Apache License 2.0
-
-### Code of Conduct
-
-Please read our [code of conduct document here](https://github.com/aaivu/aaivu-introduction/blob/master/docs/code_of_conduct.md).
-
-[project]: https://img.shields.io/badge/-Project-blue
-[research]: https://img.shields.io/badge/-Research-yellowgreen
