@@ -1,4 +1,4 @@
-# Quality Checker API
+# Tesseract Quality Checker API
 This API is used to check quality of the image.This API will filter out the images which are not matched with following conditions
 
 ## Constraints for the best-fit images
