@@ -14,7 +14,7 @@
 ---
 
 ## Summary
-This API is used to check quality of the image which is send as an input for tesseract OCR. Tesseract OCR works best when there is a clear segmentation of the foreground text from the background. It is easy to instruct the user to get a best-fit image rather than doing preprocessing on the images.
+This API is used to check the quality of the captured image for tesseract OCR. Tesseract OCR works best when there is a clear segmentation of the foreground text from the background. It is easy to instruct the user get a best-fit image rather than doing preprocessing on the images.
 
 # Description
 
